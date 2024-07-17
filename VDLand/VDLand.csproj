@@ -17,4 +17,8 @@
     <_GlobalJsonStartingDir Remove="Res\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VDLand.Common\VDLand.Common.csproj" />
+  </ItemGroup>
+
 </Project>
