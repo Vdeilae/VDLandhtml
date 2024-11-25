@@ -21,4 +21,8 @@
     <ProjectReference Include="..\VDLand.Common\VDLand.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\res\Musics\" />
+  </ItemGroup>
+
 </Project>
